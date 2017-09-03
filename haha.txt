@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 wolegeca
 
 haha
+=======
+haefghha
+>>>>>>> a3f030733072d0bf6da6821301a4be765c9684ec
